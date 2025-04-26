@@ -1,2 +1,2 @@
 # projekt_SAD
-Projekt końcowy Ani i Pawła na Statystyczną Analizę Danych
+Projekt końcowy Ani, Radka i Pawła na Statystyczną Analizę Danych
